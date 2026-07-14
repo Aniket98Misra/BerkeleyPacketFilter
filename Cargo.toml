@@ -1,0 +1,8 @@
+[package]
+name = "bpf-mini"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bpf-mini"
+path = "src/main.rs"
